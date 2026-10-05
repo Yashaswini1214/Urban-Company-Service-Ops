@@ -1,0 +1,4 @@
+-- Initial counts immediately after running generate_data.py
+-- SELECT COUNT(*) FROM categories;       -- 7
+-- SELECT COUNT(*) FROM partners_import;   -- 52
+-- SELECT COUNT(*) FROM bookings;          -- 600
